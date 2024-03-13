@@ -45,7 +45,8 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />&nbsp;
-  <img src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" width="36" height="36" alt="Gulp" />&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" width="36" height="36" alt="gulp.js" />&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/bem.svg" width="36" height="36" alt="BEM" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />&nbsp;
