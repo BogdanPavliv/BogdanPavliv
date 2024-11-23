@@ -2,7 +2,7 @@
 ## Hi 👋 My name is Bogdan
 
 * 🌍  I'm based in Stryi, Lviv, Ukraine
-* 🖥️  See my portfolio at [My portfolio](https://lighthearted-kulfi-a609fd.netlify.app)
+* 🖥️  See my portfolio at [My portfolio](bogdan-pavliv.netlify.app)
 * ✉️  You can contact me at [bogdan.pavliv@gmail.com](mailto:bogdan.pavliv@gmail.com)
 
 ## Socials
